@@ -1165,6 +1165,8 @@ div label[for=ui-component-toggle__yearly] {
   margin-top: -100px;
 }
 
+
+
 .left4, .middle4, .right4{
   width: auto;
 }
@@ -1191,12 +1193,14 @@ div label[for=ui-component-toggle__yearly] {
 
 
 
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
+
 
 
 .waviy {
@@ -1302,5 +1306,7 @@ article {
     animation-duration:1s;
     animation-delay: 1.5s
 }
+
+
 
 }
