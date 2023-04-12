@@ -380,7 +380,7 @@ div label[for=ui-component-toggle__yearly] {
 }
 
 .ui-component-list--item-check {
-  background-image: url(https://res.cloudinary.com/uisual/image/upload/assets/icons/check.svg);
+  background-image: url(https://res.cloudinary.com/dpdzb1ynj/image/upload/v1681258888/check_xgbhag.svg);
 }
 
 .ui-component-list--item-cross {
@@ -750,6 +750,10 @@ div label[for=ui-component-toggle__yearly] {
     padding-left: var(--ui-layout-gutter);
   }
 
+  .ui-image-gif {
+    width: 474px;
+    height: 598px;
+  }
   /*------------------------------------------------------------
   LAYOUT
   ------------------------------------------------------------*/
