@@ -1158,7 +1158,7 @@ div label[for=ui-component-toggle__yearly] {
   #sidebar {
     width: 25%;
     height: 25vh;
-    min-height: 200px;
+    min-height: 250px;
     overflow: auto;
     position: fixed;
     left: 3rem;
