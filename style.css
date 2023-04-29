@@ -245,7 +245,7 @@ svg {
 .ui-layout-container-section{
   padding-left: var(--ui-layout-container);
   padding-right: var(--ui-layout-container);
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
  
 }
 .ui-layout-flex,
@@ -494,8 +494,8 @@ div label[for=ui-component-toggle__yearly] {
 --------------------------------------------------------------*/
 
 .ui-section-hero {
-  padding-bottom: 5rem;
-  padding-top: 5rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
   text-align: center;
 }
 
@@ -528,8 +528,8 @@ div label[for=ui-component-toggle__yearly] {
 --------------------------------------------------------------*/
 
 .ui-section-feature {
-  padding-bottom: 3.5rem;
-  padding-top: 3.5rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
 }
 
 .ui-section-feature__layout { row-gap: var(--ui-gap-feature); }
@@ -538,7 +538,7 @@ div label[for=ui-component-toggle__yearly] {
   grid-row-start: 1;
 }
 
-.ui-section-feature__layout:last-of-type { margin-top: 5rem; }
+.ui-section-feature__layout:last-of-type { margin-top: 2rem; }
 
 /*--------------------------------------------------------------
 |
